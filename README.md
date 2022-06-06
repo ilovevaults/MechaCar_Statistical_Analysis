@@ -19,4 +19,5 @@ the same limit with .99 and 2.73 respectively.
 ![Lot1_T-test](https://user-images.githubusercontent.com/98357581/172242433-72a42285-aae2-42cb-b1ca-3e419d012376.PNG)
 ![Lot2_T-test](https://user-images.githubusercontent.com/98357581/172242444-4fa81585-e123-4999-9e6b-b0c8559ad49d.PNG)
 ![Lot3_T-test](https://user-images.githubusercontent.com/98357581/172242459-3f894c3a-1034-45d1-9656-a28189f236fa.PNG)
+
 Based on these three T-tests for each lot only lot 3 which has p-value of .041 is statisically significant while both lot 1 which has a p-value of 1 and lot 2 which has a p-value of .61 are both not statisically significant.
