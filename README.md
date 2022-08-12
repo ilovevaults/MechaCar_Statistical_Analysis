@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Goal
-The goal was to solve production troubles for the company AutosRU and its new prototype vehicle. Some of the ojbectives that were completed included succesfully predicting which variables determined the mpg and collecting statistics on the PSI of suspension coils.
+The goal was to solve production troubles for the company AutosRU and its new prototype vehicle. Some of the ojbectives that were completed included succesfully predicting which variables determined the mpg, collecting statistics on the PSI of suspension coils, and using t-tests to determine if the manufacturing lots were statistically from the mean population.
 ## Linear Regression to Predict MPG
 1.There were two variables that showed a non-random amount of variance in the linear regression. They are both vehicle length
 and ground clearance. This is because they both had the smallest p-values.
